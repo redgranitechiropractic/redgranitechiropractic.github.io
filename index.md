@@ -1,7 +1,7 @@
 Website Under Construction
 
 # Address
-1100 Bannerman Ave,  
+1100 E Bannerman Ave,  
 Suite #2  
 Redgranite, WI 54970
 
