@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+
+    <title>Redgranite Family Chiropractic | redgranitechiropractic.github.io</title>
+    <meta name="generator" content="Jekyll v3.9.0" />
+    <meta property="og:title" content="Redgranite Family Chiropractic" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="Redgranite Family Chiropractic's Website" />
+    <meta property="og:description" content="Redgranite Family Chiropractic's Website" />
+    <link rel="canonical" href="https://redgranitechiropractic.github.io/" />
+    <meta property="og:url" content="https://redgranitechiropractic.github.io/" />
+    <meta property="og:site_name" content="redgranitechiropractic.github.io" />
+    <script type="application/ld+json">
+    {"@type":"WebSite","headline":"Redgranite Family Chiropractic","url":"https://redgranitechiropractic.github.io/","description":"Redgranite Family Chiropractic's Website","name":"redgranitechiropractic.github.io","@context":"https://schema.org"}</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <!--<a id="skip-to-content" href="#content">Skip to the content.</a>-->
+
+    <header class="page-header" role="banner">
+      <!--<img src="https://github.com/dgellerup/dgellerup.github.io/blob/master/assets/images/headshot.png?raw=true" alt="face" style="height:150px;">-->
+      <h1 class="project-name">Redgranite Family Chiropractic</h1>
+      <h2 class="project-tagline">Chiropractic Care and Wellness Services</h2>
+      <!--<a href="https://github.com/dgellerup" class="btn">GitHub</a>
+      <a href="https://www.linkedin.com/in/dane-gellerup-63445828/" class="btn">LinkedIn</a>-->
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+      </footer>
+    </main>
+  </body>
+</html>
