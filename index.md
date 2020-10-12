@@ -1,4 +1,8 @@
 Website Under Construction
+# Phone  
+(920) 566-0767
+# Fax
+(920) 566-0768  
 
 # Address
 1100 E Bannerman Ave,  
