@@ -15,6 +15,11 @@ Eric Boettcher DC
 Suite #2  
 Redgranite, WI 54970
 
+<a href="https://www.facebook.com/redgranitefamilychiropractic/">
+  <img src="https://www.flaticon.com/free-icon/facebook_124010" alt="Regranite Family Chiropractic on Facebook" style="height:20px;">
+  <strong style="font-size:20px;">Visit Us On Facebook</strong>
+</a>
+
 # Hours
 Monday: 8:00am - 5:00pm  
 Tuesday: 8:00am - 1:00pm  
@@ -22,8 +27,6 @@ Wednesday: 8:00am - 5:00pm
 Thursday: Closed  
 Friday: 8:00am - 5:00pm  
 Saturday: Closed  
-
-<a href="https://www.facebook.com/redgranitefamilychiropractic/">Visit Us On Facebook</a>
 
 
 # Insurances  
