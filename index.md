@@ -1,5 +1,5 @@
 Website Under Construction  
-#Redgranite Family Chiropracitc  
+# Redgranite Family Chiropracitc  
 Here at Redgranite Family Chiropractic we are committed to providing patients with quality Chiropractic care and wellness services.
 
 
@@ -19,6 +19,7 @@ Tuesday: 8:00am - 1:00pm
 Wednesday: 8:00am - 5:00pm  
 Thursday: Closed  
 Friday: 8:00am - 5:00pm  
+Saturday: Closed  
 
 Facebook: https://www.facebook.com/redgranitefamilychiropractic/
 
@@ -30,7 +31,10 @@ Most all insurances are accepted.
 - Anthem Blue Cross Blue Shield  
 - WEA  
 - Aetna  
-- United Health  
-- Quartz  
+- Network  
+- UMR  
+- United Health Care  
+- WPS  
+- Quartz/Fulcrum/Robin  
 - VA Optum  
 - AllWell MHS  
