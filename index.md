@@ -1,5 +1,5 @@
 Website Under Construction  
-#Redgranite Family Chiropracitc  
+# Redgranite Family Chiropracitc  
 Here at Redgranite Family Chiropractic we are committed to providing patients with quality Chiropractic care and wellness services.
 
 
