@@ -30,7 +30,10 @@ Most all insurances are accepted.
 - Anthem Blue Cross Blue Shield  
 - WEA  
 - Aetna  
-- United Health  
-- Quartz  
+- Network  
+- UMR  
+- United Health Care  
+- WPS  
+- Quartz/Fulcrum/Robin  
 - VA Optum  
 - AllWell MHS  
