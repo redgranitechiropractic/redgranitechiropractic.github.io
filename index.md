@@ -22,11 +22,11 @@ Facebook: https://www.facebook.com/redgranitefamilychiropractic/
 # Insurances  
 Most all insurances are accepted. 
 - Medicare
-- *Medicaid  
-- *Anthem Blue Cross Blue Shield  
-- *WEA  
-- *Aetna  
-- *United Health  
-- *Quartz  
-- *VA Optum  
-- *AllWell MHS  
+- Medicaid  
+- Anthem Blue Cross Blue Shield  
+- WEA  
+- Aetna  
+- United Health  
+- Quartz  
+- VA Optum  
+- AllWell MHS  
