@@ -21,7 +21,7 @@ Facebook: https://www.facebook.com/redgranitefamilychiropractic/
 
 # Insurances  
 Most all insurances are accepted. 
-- *Medicare
+- Medicare
 - *Medicaid  
 - *Anthem Blue Cross Blue Shield  
 - *WEA  
