@@ -20,12 +20,12 @@ Wednesday: 8:00am - 5:00pm
 Thursday: Closed  
 Friday: 8:00am - 5:00pm  
 Saturday: Closed  
-
-Facebook: https://www.facebook.com/redgranitefamilychiropractic/
+  
+<a href="https://www.facebook.com/redgranitefamilychiropractic/">Visit Us On Facebook</a>
 
 
 # Insurances  
-Most all insurances are accepted. 
+Most all insurances are accepted.
 - Medicare
 - Medicaid  
 - Anthem Blue Cross Blue Shield  
