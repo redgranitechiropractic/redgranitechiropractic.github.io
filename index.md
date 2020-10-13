@@ -16,12 +16,21 @@ Suite #2
 Redgranite, WI 54970
 
 # Hours
-Monday: 8:00am - 5:00pm  
-Tuesday: 8:00am - 1:00pm  
-Wednesday: 8:00am - 5:00pm  
-Thursday: Closed  
-Friday: 8:00am - 5:00pm  
-Saturday: Closed  
+<p>
+  Monday:    8:00am - 5:00pm
+  <br>
+  Tuesday:   8:00am - 1:00pm
+  <br>
+  Wednesday: 8:00am - 5:00pm
+  <br>
+  Thursday:  Closed
+  <br>
+  Friday:    8:00am - 5:00pm
+  <br>
+  Saturday:  Closed
+  <br>
+  Sunday:    Closed
+</p>
 
 
 # Insurances  
