@@ -17,19 +17,19 @@ Redgranite, WI 54970
 
 # Hours
 <p>
-  Monday:    8:00am - 5:00pm
+  <pre>Monday:    8:00am - 5:00pm</pre>
   <br>
-  Tuesday:   8:00am - 1:00pm
+  <pre>Tuesday:   8:00am - 1:00pm</pre>
   <br>
-  Wednesday: 8:00am - 5:00pm
+  <pre>Wednesday: 8:00am - 5:00pm</pre>
   <br>
-  Thursday:  Closed
+  <pre>Thursday:  Closed</pre>
   <br>
-  Friday:    8:00am - 5:00pm
+  <pre>Friday:    8:00am - 5:00pm</pre>
   <br>
-  Saturday:  Closed
+  <pre>Saturday:  Closed</pre>
   <br>
-  Sunday:    Closed
+  <pre>Sunday:    Closed</pre>
 </p>
 
 
