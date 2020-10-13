@@ -2,6 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+#fb_link{
+  color: #FFFFFF;
+}
+
+.page-header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
 /*
 .page-header {
     color: #FFFFFF;
