@@ -3,7 +3,7 @@
 # Our Staff  
 Eric Boettcher DC
 <br>
-
+<br>
 <!-- Contact info section -->
 <div id="wrapper" class="outer">
   <div id="first" class="inner">
