@@ -2,21 +2,23 @@
 
 # Our Staff  
 Eric Boettcher DC
+<br>
 
+<!-- Contact info section -->
 <div id="wrapper">
   <div id="first">
     <h1>Phone</h1>
-    <strong>(920) 566-0767</strong>
+    (920) 566-0767
   </div>
   <div id="second">
     <h1>Fax</h1>
-    <strong>(920) 566-0768</strong>
+    (920) 566-0768
   </div>
   <div id="third">
     <h1>Address</h1>
-    <strong>1100 E Bannerman Ave</strong><br>
-    <strong>Suite #2</strong><br>
-    <strong>Redgranite, WI 54970</strong><br>
+    1100 E Bannerman Ave<br>
+    Suite #2<br>
+    Redgranite, WI 54970<br>
     <a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6" target="_blank">Google Maps</a>
   </div>
 </div>
