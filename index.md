@@ -1,7 +1,4 @@
-<p>** Website Under Construction **</p>
-
-# Redgranite Family Chiropractic  
-Here at Redgranite Family Chiropractic we are committed to providing patients with quality Chiropractic care and wellness services.
+<h2 style="text-algin:center">Here at Redgranite Family Chiropractic we are committed to providing patients with quality Chiropractic care and wellness services.</h2>
 
 # Our Staff  
 Eric Boettcher DC
