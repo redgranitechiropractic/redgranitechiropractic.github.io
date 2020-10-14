@@ -45,13 +45,15 @@
 */
 #wrapper {
   width: 100%;
+  display: inline-block;
   overflow: hidden;
 }
 #first {
-  width:250px;
+  width: 250px;
   float: left;
 }
 #second {
+  width: 250px;
   overflow: hidden;
 }
 #third {
