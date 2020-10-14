@@ -14,9 +14,9 @@ Eric Boettcher DC
   </div>
   <div id="third">
     <h1>Address</h1>
-    <strong>1100 E Bannerman Ave</strong>
-    <strong>Suite #2</strong>
-    <strong>Redgranite, WI 54970</strong>
+    <strong>1100 E Bannerman Ave</strong><br>
+    <strong>Suite #2</strong><br>
+    <strong>Redgranite, WI 54970</strong><br>
     <a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6" target="_blank">Google Maps</a>
   </div>
 </div>
