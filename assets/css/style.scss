@@ -42,7 +42,6 @@
     font-weight: normal;
     color: #000000
 }
-*/
 #wrapper {
   width: 100%;
   display: inline-block;
@@ -58,4 +57,8 @@
 }
 #third {
   overflow: hidden;
+}
+*/
+.outer > * {
+  display: inline-block;
 }

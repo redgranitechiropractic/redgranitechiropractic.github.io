@@ -5,16 +5,16 @@ Eric Boettcher DC
 <br>
 
 <!-- Contact info section -->
-<div id="wrapper">
-  <div id="first">
+<div id="wrapper" class="outer">
+  <div id="first" class="inner">
     <h1>Phone</h1>
     (920) 566-0767
   </div>
-  <div id="second">
+  <div id="second" class="inner">
     <h1>Fax</h1>
     (920) 566-0768
   </div>
-  <div id="third">
+  <div id="third" class="inner">
     <h1>Address</h1>
     1100 E Bannerman Ave<br>
     Suite #2<br>
