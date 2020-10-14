@@ -13,7 +13,8 @@ Eric Boettcher DC
 # Address
 1100 E Bannerman Ave,  
 Suite #2  
-Redgranite, WI 54970
+Redgranite, WI 54970  
+<a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6" target="_blank">Google Maps</a>
 
 # Hours
 <table>
