@@ -61,4 +61,9 @@
 */
 .outer > * {
   display: inline-block;
+  vertical-align: top;
+}
+
+.inner {
+  width: 32%;
 }
