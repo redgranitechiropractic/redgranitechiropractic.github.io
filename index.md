@@ -20,7 +20,7 @@ Monday: &nbsp; &nbsp; &nbsp; &nbsp;8:00am - 5:00pm
 Tuesday: &nbsp; &nbsp; &nbsp; 8:00am - 1:00pm  
 Wednesday: 8:00am - 5:00pm  
 Thursday: &nbsp; &nbsp; Closed  
-Friday: &nbsp; &nbsp; &nbsp; &nbsp; 8:00am - 5:00pm  
+Friday: &#9;8:00am - 5:00pm  
 Saturday: &nbsp; &nbsp; Closed  
 Sunday: &nbsp; &nbsp; &nbsp; &nbsp;Closed
 
