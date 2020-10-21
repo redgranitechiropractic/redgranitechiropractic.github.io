@@ -1,4 +1,4 @@
-<h2 id="intro">Here at Redgranite Family Chiropractic we are committed to providing patients with quality Chiropractic care and wellness services.</h2>
+<h2 id="intro">At Redgranite Family Chiropractic, our staff are committed to providing patients with quality chiropractic care and wellness services.</h2>
 
 # Our Staff  
 Eric Boettcher DC
