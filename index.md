@@ -25,7 +25,7 @@ Lori Larson
   </div>
 </div>
 
-# Hours
+# Regular Hours
 <table>
   <tr>
     <td>Monday</td>
