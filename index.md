@@ -3,7 +3,7 @@
 # Our Staff  
 Eric Boettcher, DC  
 Bonnie Gellerup  
-Lori Larson
+Lori Larsen
 <br>
 <br>
 <!-- Contact info section -->
