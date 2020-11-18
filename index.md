@@ -1,7 +1,9 @@
 <h2 id="intro">At Redgranite Family Chiropractic, our staff are committed to providing patients with quality chiropractic care and wellness services.</h2>
 
 # Our Staff  
-Eric Boettcher DC
+Eric Boettcher, DC
+Bonnie Gellerup
+Lori Larson
 <br>
 <br>
 <!-- Contact info section -->
