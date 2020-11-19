@@ -5,7 +5,10 @@ window.onload = function () {
 
   if (hours[d.getDay()] != "Closed") {
     var message = days[d.getDay()] + ": Open " + hours[d.getDay()];
-  } else {
+  } elseif (d.getMonth() == 11 && d.getDate() == 25) {
+    var message = "Merry Christmas! We're Closed Today."
+  }
+  else {
     var message = days[d.getDay()] + ": Closed";
   }
 
