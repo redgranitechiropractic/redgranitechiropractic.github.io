@@ -1,4 +1,4 @@
-<h2 id="intro">At Redgranite Family Chiropractic, our staff are committed to providing patients with quality chiropractic care and wellness services.</h2>
+<h2 id="intro">At Redgranite Family Chiropractic, our staff is committed to providing patients with quality chiropractic care and wellness services.</h2>
 
 # Our Staff  
 Eric Boettcher, DC  
@@ -10,7 +10,7 @@ Lori Larsen
 <div id="wrapper" class="outer">
   <div id="first" class="inner">
     <h1>Phone</h1>
-    (920) 566-0767
+    <a href="tel:920-566-0767">(920) 566-0767</a>
   </div>
   <div id="second" class="inner">
     <h1>Fax</h1>
