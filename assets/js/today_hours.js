@@ -10,6 +10,6 @@ window.onload = function () {
   }
 
 
-  document.getElementById("intro").innerHTML = message;
+  document.getElementById("hours-tagline").innerHTML = message;
 
 }
