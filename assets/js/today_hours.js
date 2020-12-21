@@ -15,7 +15,7 @@ window.onload = function () {
     var message = days[d.getDay()] + ": Closed";
   }
 
-  var special_message = "Have a great day in health!";
+  var special_message = "";
 
   if (special_message != "") {
     var message = special_message;
