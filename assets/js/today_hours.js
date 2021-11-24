@@ -15,7 +15,7 @@ window.onload = function () {
     var message = days[d.getDay()] + ": Closed";
   }
 
-  var special_message = "";
+  var special_message = "We will be closed November 25th and 26th for Thanksgiving";
 
   if (special_message != "") {
     var message = special_message;
