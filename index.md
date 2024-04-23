@@ -18,8 +18,8 @@ Lori Larsen
   </div>
   <div id="third" class="inner">
     <h1>Address</h1>
-    1100 E Bannerman Ave<br>
-    Suite #2<br>
+    620 Warren St<br>
+    Suite #1<br>
     Redgranite, WI 54970<br>
     <a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6" target="_blank">Google Maps</a>
   </div>
