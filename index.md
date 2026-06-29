@@ -66,8 +66,7 @@ Jenn Buss
 Most all insurances are accepted.
 - Medicare
 - Medicaid  
-- Anthem Blue Cross Blue Shield  
-- WEA  
+- Anthem Blue Cross Blue Shield   
 - Aetna  
 - Network  
 - UMR  
