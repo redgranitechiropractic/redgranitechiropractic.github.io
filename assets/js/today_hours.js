@@ -15,7 +15,7 @@ window.onload = function () {
     var message = days[d.getDay()] + ": Closed";
   }
 
-  var special_message = "";
+  var special_message = "We will be closed Friday July 3rd in observance of 4th of July Holiday.";
 
   if (special_message != "") {
     var message = special_message;
