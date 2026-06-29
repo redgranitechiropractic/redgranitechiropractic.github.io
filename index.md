@@ -3,7 +3,8 @@
 # Our Staff  
 Eric Boettcher, DC  
 Bonnie Gellerup  
-Lori Larsen
+Angie Tanner
+Jenn Busse
 <br>
 <br>
 <!-- Contact info section -->
