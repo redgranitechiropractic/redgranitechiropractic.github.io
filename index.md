@@ -17,7 +17,7 @@ Jenn Busse
     <h1>Fax</h1>
     (920) 566-0768
   </div>
-  <div id="third" class="inner">
+<div id="third" class="inner">
     <h1>Address</h1>
     620 Warren St<br>
     Suite #1<br>
