@@ -70,6 +70,6 @@ Most all insurances are accepted.
 - UMR  
 - United Health Care  
 - WPS  
-- Quartz/Fulcrum/Robin  
+- Health Partners/Robin  
 - VA Optum  
 - AllWell MHS  
