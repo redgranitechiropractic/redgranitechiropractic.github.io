@@ -4,7 +4,7 @@
 Eric Boettcher, DC  
 Bonnie Gellerup  
 Angie Tanner  
-Jenn Busse
+Jenn Buss
 <br>
 <br>
 <!-- Contact info section -->
