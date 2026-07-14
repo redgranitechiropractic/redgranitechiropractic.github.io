@@ -15,7 +15,7 @@ window.onload = function () {
     var message = days[d.getDay()] + ": Closed";
   }
 
-  var special_message = "Friday July 10th we will be open 8am-12pm.";
+  var special_message = "Friday July 17th we will be open 8am-12:30pm.";
 
   if (special_message != "") {
     var message = special_message;
