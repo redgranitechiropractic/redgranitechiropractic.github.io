@@ -2,9 +2,9 @@
 
 # Our Staff  
 Eric Boettcher, DC  
-Bonnie Gellerup  
-Angie Tanner  
-Jenn Buss
+Bonnie Gellerup   
+Jenn Buss  
+Jen Culver
 <br>
 <br>
 <!-- Contact info section -->
