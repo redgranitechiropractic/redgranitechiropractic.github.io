@@ -68,3 +68,36 @@
 .inner {
   width: 32%;
 }
+
+.contact-info {
+  margin: 2rem 0;
+}
+
+.contact-row {
+  display: flex;
+  gap: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.contact-item {
+  flex: 0 1 220px;
+}
+
+.contact-item h1 {
+  margin-bottom: 0.75rem;
+}
+
+.contact-item address {
+  margin-bottom: 0.25rem;
+  font-style: normal;
+}
+
+@media (max-width: 600px) {
+  .contact-row {
+    display: block;
+  }
+
+  .contact-item {
+    margin-bottom: 1.5rem;
+  }
+}
