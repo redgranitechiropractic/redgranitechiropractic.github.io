@@ -80,11 +80,12 @@
 }
 
 .contact-item {
-  flex: 0 1 220px;
+  flex: 0 1 280px;
 }
 
 .contact-item h1 {
   margin-bottom: 0.75rem;
+  white-space: nowrap;
 }
 
 .contact-item address {
@@ -100,4 +101,7 @@
   .contact-item {
     margin-bottom: 1.5rem;
   }
+
+  .contact-item h1 {
+    white-space: normal;
 }
