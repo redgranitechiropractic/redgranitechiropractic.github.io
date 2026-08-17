@@ -8,24 +8,39 @@ Jen Culver
 <br>
 <br>
 <!-- Contact info section -->
-<div id="wrapper" class="outer">
-  <div id="first" class="inner">
-    <h1>Phone</h1>
-    <a href="tel:920-566-0767">(920) 566-0767</a>
+<div class="contact-info">
+  <div class="contact-row">
+    <div class="contact-item">
+      <h1>Phone</h1>
+      <a href="tel:+19205660767">(920) 566-0767</a>
+    </div>
+    <div class="contact-item">
+      <h1>Fax</h1>
+      <span>(920) 566-0768</span>
+    </div>
   </div>
-  <div id="second" class="inner">
-    <h1>Fax</h1>
-    (920) 566-0768
-  </div>
-<div id="third" class="inner">
-    <h1>Address</h1>
-    620 Warren St<br>
-    Suite #1<br>
-    Redgranite, WI 54970<br>
-    <a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6" target="_blank">Google Maps</a>
-    <h1>Mailing Address</h1>
-    PO Box 447   
-    Redgranite, WI 54970<br>
+
+  <div class="contact-row">
+    <div class="contact-item">
+      <h1>Address</h1>
+      <address>
+        620 Warren St<br>
+        Suite #1<br>
+        Redgranite, WI 54970
+      </address>
+      <a href="https://goo.gl/maps/XUKS7YL3vAdz7Vpk6"
+         target="_blank"
+         rel="noopener noreferrer">
+        Google Maps
+      </a>
+    </div>
+    <div class="contact-item">
+      <h1>Mailing Address</h1>
+      <address>
+        PO Box 447<br>
+        Redgranite, WI 54970
+      </address>
+    </div>
   </div>
 </div>
 
