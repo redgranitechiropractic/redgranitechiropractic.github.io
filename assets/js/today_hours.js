@@ -15,7 +15,7 @@ window.onload = function () {
     var message = days[d.getDay()] + ": Closed";
   }
 
-  var special_message = "";
+  var special_message = "We will be closed Monday, September 7th, in observance of Labor Day.";
 
   if (special_message != "") {
     var message = special_message;
